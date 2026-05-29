@@ -1,3 +1,7 @@
+# JAT Studio
+Welcome to JAT Studio.
+
+
 # JAT Studio — Privacy Policy
 
 Last updated: May 2026
